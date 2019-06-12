@@ -16,12 +16,14 @@ This is a Tensorflow implementation of a Real-Time Face recognition system using
 
 ## How To
 **Step 1: Create necessary folders**
+
 Start by creating 2 folders: 
 "saved" for the training and testing set.
 "models" for the trained model.
 Inside the "saved" folder create 2 folders: "train" and "test".
 
 **Step 2: Add new user**
+
 Run the command: 
 
 ```python face_recognition.py```
